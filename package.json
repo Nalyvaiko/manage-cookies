@@ -1,6 +1,6 @@
 {
   "name": "manage-cookies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cookies manager",
   "main": "dist/build.js",
   "scripts": {

@@ -1,5 +1,5 @@
 # manage-cookies
 
 getCookie(name)
-setCookie(name, value <options>)
+setCookie(name, value, options)
 deleteCookie(name)
